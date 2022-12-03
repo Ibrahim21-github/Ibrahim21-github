@@ -3,4 +3,4 @@
 🌱  I'm on track for learning more about Different Tools & Technique                                            .                                  
 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.                                   
 ✉️  You can shoot me an email at ibrahimcse.green@gmail.com I'll try to respond as soon as I can.                                                 
-📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!                                            
+📄  Please have a look at my [Résumé](https://www.linkedin.com/in/ibrahim-khalil-1a28a5258/) for more details about me. I'm open to feedback and suggestions!      Résumé                                      
