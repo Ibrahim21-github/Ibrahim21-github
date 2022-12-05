@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim khalil</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer</h3>
 
-<p align="left"> <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/05/Selenium-blog-1.gif"/> </p> 
+<img align="right" alt="Testing" width="400" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/05/Selenium-blog-1.gif"/>
 
 - 🔭 I’m currently working on **Manual Testing**
 
