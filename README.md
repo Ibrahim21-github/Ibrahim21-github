@@ -1,8 +1,7 @@
                                                           Hi 👋, I'm Ibrahim khalil 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💡  I like to explore new technologies and develop software solutions and quick hacks.        
-                                       
+💡  I like to explore new technologies and develop software solutions and quick hacks.                                               
 🎓  I'm a fresh Graduate of CSE in Green University of Bangladesh                                     
 🌱  I’m currently learning java, selenium, cypress.                                          .                                   
 💬 Ask me about manual testing, API testing, automation frameworks.                                                                                
